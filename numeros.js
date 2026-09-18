@@ -1,3 +1,5 @@
+// 2- Number (Números)
+
 // Exercício 1 - Crie dois números e exiba a soma.
 let soma = 40 + 13;
 console.log(soma);
