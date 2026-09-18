@@ -32,18 +32,29 @@ console.log("------------------");
 
 // Exercício 6 - Verifique se um número é par.
 let numeroPar = 24; 
-console.log(numeroPar % 2 === 0 );
+console.log(numeroPar % 2 === 0);
 console.log("------------------");
 
 
 // Exercício 7 - Use AND (&&) em uma condição.
-
+let Idade = 23;
+let Carteira = true;
+console.log(Idade && Carteira);
+console.log("------------------");
 
 // Exercício 8 - Use OR (||) em uma condição.
-
+let dia10 = true;
+let dia24 = false;
+console.log(dia10 ||dia24 );
+console.log("------------------");
 
 // Exercício 9 - Negue um valor boolean.
-
+inativo = !ativo; // Vai retornar ao false
+console.log(inativo)
+console.log("------------------");
 
 // Exercício 10 - Compare texto e número.
-
+let texto = "20"
+let numeroComp = 20
+console.log(texto === String())
+console.log("------------------");
